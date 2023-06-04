@@ -32,7 +32,7 @@ function payOrder(){
 
 // function for showing thank messages
 function thankyouFnc(){
-    alert(" Thank-you for Eating with us today !");
+    alert(" Thank-you for visiting with us today !");
 }
 
 
